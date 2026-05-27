@@ -1,0 +1,12 @@
+{
+  "generated": "2026-05-26T21:53:23.026703",
+  "total_halal": 1162,
+  "confirmed": 183,
+  "google_only": 979,
+  "osm_and_google": 183,
+  "has_google_place_id": 1162,
+  "has_phone": 130,
+  "has_website": 144,
+  "has_opening_hours": 103,
+  "ready_for_enrichment": 1162
+}
